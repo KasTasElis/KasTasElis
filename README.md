@@ -2,7 +2,7 @@
 
 **KasTasElis/KasTasElis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[Frontend Masters Learning](https://frontendmasters.com/u/Eli_Tamosauskas) 
+https://frontendmasters.com/u/Eli_Tamosauskas
 
 Here are some ideas to get you started:
 
