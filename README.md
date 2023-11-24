@@ -1,6 +1,4 @@
-# Checkout Out Some Tools I Use
-
----
+# Checkout Out Some Of The Tools I Use
 
 ### ⌨️ Programming Languages
 
