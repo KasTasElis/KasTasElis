@@ -12,7 +12,7 @@ I am a self-educated software developer specialised in JavaScript ecosystem. Som
 - PostgreSQL
 - Firebase
 
-**KasTasElis/KasTasElis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Check out my profile on frontend masters to catch a glimpse of what I am learning now!
 
 https://frontendmasters.com/u/Eli_Tamosauskas
 
