@@ -47,7 +47,7 @@ In a nutshell, I consider myself a full-stack _(frontend focused)_ web applicati
 
 ## Data storage
 - PostgreSQL, MongoDB (+ mongoose)
-- 
+
 ## Automated Testing
 - Cypress
 - Jest, React Testing Library
