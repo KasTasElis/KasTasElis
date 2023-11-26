@@ -7,15 +7,15 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-Hello, I'm Eli and I am a self-educated software engineer. Thanks for checking out my profile! Here, you'll get a sneak peak at some of the tools I use as well as some samples of my code or even little side-projects I dabble with in my spare time. Most of my professional work is private for legal reasons.
+Hello, I'm Eli and I am a self-educated software engineer. Thanks for checking out my profile! Here, you'll get a sneak peak at some of the tools I use as well as some samples of my code or even little side-projects I dabble with in my spare time. _(Most of my professional portfolio is private for legal reasons)_
 
-In a nutshell, I consider myself a full-stack (frontend focused) web developer with almost 10 years of experience. I've been building websites and applications since 2013, mostly using:
+In a nutshell, I consider myself a full-stack _(frontend focused)_ web application developer with almost 10 years of experience. I've been building websites and web applications since 2013, mostly using:
 
 - JavaScript & TypeScript (React & NextJS)
 - NodeJS (expressJS)
 - MongoDB
 
-I have also built a good few Wordpress websites using PHP for a wide range of clientele back in my early days in 2013. However I don't really do much PHP work theese days any more as I focus on JavaScript applications.
+I have also built a good few wordpress websites using PHP for a wide range of clientele back in my early days in 2013. However I don't really do much PHP work any more, theese days I focus on JavaScript applications.
   
 Can I be of some help to you? Feel free to reach out to me via Linkedin!
 
