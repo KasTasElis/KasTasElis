@@ -7,6 +7,18 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<p>
+  Hey, I'm Eli, a software engineer. Thanks for checking out my profile! Here, you'll see the tools I use some samples of code / projects I dabble with.
+  
+  <br />
+
+  In a nutshell, I'm a full-stack (frontend focused) web developer with almost 10 years of experience. I've been building websites and applications since 2013, mostly using JavaScript, NodeJS,   React, Express, also known as the MERN stack. 
+
+  <br />
+  
+  Need some help? Feel free to reach out to me via linkedin!
+</p>
+
 ### ⌨️ Programming Languages
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
