@@ -10,7 +10,7 @@ Thanks for checking out my profile! Here, you'll get a sneak peek at some of the
 
 In a nutshell, I consider myself a full-stack _(frontend focused)_ web application developer with almost 10 years of experience.
 
-## 🛠️Check out some of my tech-stack
+## 🛠️ Check out some of my tech-stack
 
 <p float="left">
   <img alt="javascript" width="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -49,7 +49,8 @@ In a nutshell, I consider myself a full-stack _(frontend focused)_ web applicati
 - PostgreSQL, MongoDB (+ mongoose)
 - 
 ## Automated Testing
-- Cypress, Jest, React Testing Library
+- Cypress
+- Jest, React Testing Library
 
 ## Other
 - Figma, Webpack, Babel, Vite
