@@ -43,6 +43,8 @@ Can I be of some help to you? Feel free to reach out to me via Linkedin!
   <img align="left" alt="sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
   <img align="left" alt="tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 
+#
+
 ### Languages
 - JavaScript
 - TypeScript
