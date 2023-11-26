@@ -9,7 +9,7 @@
 
 Hello, I'm Eli and I am a self-educated software engineer. Thanks for checking out my profile! Here, you'll get a sneak peak at some of the tools I use as well as some samples of my code or even little side-projects I dabble with in my spare time. Most of my professional work is private for legal reasons.
 
-In a nutshell, I consider myself a full-stack (frontend focused) web developer with almost 10 years of experience. I've been building websites and applications since 2013, mostly using 
+In a nutshell, I consider myself a full-stack (frontend focused) web developer with almost 10 years of experience. I've been building websites and applications since 2013, mostly using:
 
 - JavaScript & TypeScript (React & NextJS)
 - NodeJS (expressJS)
