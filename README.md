@@ -7,17 +7,13 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<p>
-  Hey, I'm Eli, a software engineer. Thanks for checking out my profile! Here, you'll see the tools I use some samples of code / projects I dabble with.
-  
-  <br />
+Hello, I'm Eli and I am a self-educated software engineer. Thanks for checking out my profile! Here, you'll get a sneak peak at some of the tools I use as well as some samples of my code or even little side-projects I dabble with in my spare time. Most of my professional work is private for legal reasons.
 
-  In a nutshell, I'm a full-stack (frontend focused) web developer with almost 10 years of experience. I've been building websites and applications since 2013, mostly using JavaScript, NodeJS,   React, Express, also known as the MERN stack. 
+In a nutshell, I consider myself a full-stack (frontend focused) web developer with almost 10 years of experience. I've been building websites and applications since 2013, mostly using JavaScript, TypeScript, NodeJS, React, Express etc. sometimes known as the MERN stack. 
 
-  <br />
+I have also built a good few Wordpress websites using PHP for a wide range of clientele back in my early days in 2013.
   
-  Need some help? Feel free to reach out to me via linkedin!
-</p>
+Need some help? Feel free to reach out to me via Linkedin!
 
 ### ⌨️ Programming Languages
 
