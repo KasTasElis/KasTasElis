@@ -46,7 +46,8 @@ In a nutshell, I consider myself a full-stack _(frontend focused)_ web applicati
 - Firebase, Ionic
 
 ## Data storage
-- PostgreSQL, MongoDB (+ mongoose)
+- PostgreSQL
+- MongoDB (+ mongoose)
 
 ## Automated Testing
 - Cypress
