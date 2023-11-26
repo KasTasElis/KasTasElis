@@ -38,7 +38,8 @@ In a nutshell, I consider myself a full-stack _(frontend focused)_ web applicati
 </p>
 
 ## Languages
-- JavaScript, TypeScript, NodeJs
+- JavaScript, TypeScript
+- NodeJs
 
 ## Frameworks
 - ReactJs (+ Redux, MobX State Tree, react-query, SWR, etc.)
