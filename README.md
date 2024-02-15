@@ -6,7 +6,7 @@
 
 Hello, I'm Eli, a self-educated software engineer usually based somewhere around 🇪🇺Europe.
 
-Thanks for checking out my profile! Here, you'll get a sneak peek at some of the tools I use, as well as samples of my code or even little side-projects I dabble with in my spare time. _(Most of my professional portfolio is private for legal reasons)_
+Here, you'll get a sneak peek at some of the tools I use, as well as samples of my code or even little side-projects I dabble with in my spare time. _(Most of my professional portfolio is private for legal / privacy reasons)_
 
 In a nutshell, I consider myself a full-stack _(frontend focused)_ web application developer with almost 10 years of experience.
 
@@ -38,27 +38,15 @@ In a nutshell, I consider myself a full-stack _(frontend focused)_ web applicati
   <img alt="tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 </p>
 
-## Languages
-- JavaScript, TypeScript
-- NodeJs
+## My Tech Stack 
+- JavaScript | TypeScript
+- ❤️ React.Js | Redux | MST | React Query | Ionic | Capacitor | Tailwind)
+- Node.js & Express + MongoDB / PostgreSQL
+- Jest + React Testing Library & Cypress 
 
-## Frameworks
-- ReactJs (+ Redux, MobX State Tree, react-query, SWR, etc.)
-- React Native, NextJs, ExpressJs
-- Firebase, Ionic
-
-## Data storage
-- PostgreSQL
-- MongoDB (+ mongoose)
-
-## Automated Testing
-- Cypress
-- Jest, React Testing Library
-
-## Other
+## Other Skills
 - Figma, Webpack, Babel, Vite
 - AWS, XCode, Android Studio
-
 
 # 🙋‍♂️ Can I be of some help to you? 
 
