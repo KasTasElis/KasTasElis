@@ -52,6 +52,6 @@ In a nutshell, I consider myself a full-stack _(frontend focused)_ web applicati
 
 Feel free to reach out to me via Linkedin.
 
-<a href="https://www.linkedin.com/in/eli-t-26748580">
+<a href="https://www.linkedin.com/in/eli-tamo%C5%A1auskas-26748580" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
